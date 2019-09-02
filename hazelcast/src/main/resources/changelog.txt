@@ -1,5 +1,10 @@
 You can also see the Release Notes document at http://docs.hazelcast.org/docs/release-notes/.
 
+Release 3.12.2 - CITI - EA1
+
+- Introduced a new experimental back pressure strategy. For this, you need to remove and/or
+disable all the back pressure related settings from your configuration.
+
 Release 3.12
 
 - Support for JDK 6 and 7 has been dropped. The minimum Java version that Hazelcast supports now is Java 8.
