@@ -1,5 +1,9 @@
 You can also see the Release Notes document at http://docs.hazelcast.org/docs/release-notes/.
 
+Release 3.11.3 - Hyperw
+
+- Added additional log entries for XA transactions to observe the remote transaction details.
+
 Release 3.11
 
 - Added fine-grained control over WAN replication events by Introducing the new event type LOADED and the class EntryLoadedListener.
