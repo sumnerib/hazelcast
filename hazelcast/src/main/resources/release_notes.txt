@@ -1,5 +1,11 @@
 This document lists the new features, enhancements, fixed issues and, removed or deprecated features for Hazelcast IMDG 3.11.x releases. The numbers in the square brackets refer to the issues in Hazelcast's GitHub repositories.
 
+==== 3.11.3 - Hyperw ====
+
+1. Enhancements
+
+* Added additional log entries for XA transactions to observe the remote transaction details.
+
 ==== 3.11.3 ====
 
 1. Fixes 
